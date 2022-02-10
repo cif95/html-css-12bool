@@ -1,0 +1,26 @@
+section{
+	margin-top:2rem;
+}
+
+
+.row>div{
+	text-align: center;
+	padding:.8rem;
+	color:white;
+	border:1px solid white;
+	background-color:crimson;
+}
+
+.row>div.nested{
+	background-color: coral;
+	border:1px solid crimson;
+}
+
+section#second .row>div,
+section#third .row>div{
+	padding:1.5rem;
+}
+
+section#third{
+	padding-bottom:2rem;
+}
