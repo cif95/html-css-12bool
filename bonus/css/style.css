@@ -5,13 +5,13 @@ body{
 
 section#sky{
 	background: url(../img/sky.jpg) bottom / cover;
-	padding:11rem;
+	padding:5rem;
 }
 
 section#sky h1{
 	color:rgb(199, 196, 0);
-	margin-bottom:3rem;
-	font-size:3rem;
+	margin-bottom:1rem;
+	font-size:1.5rem;
 	text-transform: uppercase;
 }
 
@@ -49,13 +49,13 @@ section#sky div.box.mistery{
 
 
 section#ground .grass{
-	padding:2rem;
+	padding:1rem;
 	background: rgb(16,113,0);
 	background: linear-gradient(180deg, rgba(16,113,0,1) 0%, rgba(13,121,9,0.44) 21%, rgba(0,255,17,1) 92%, rgba(61,166,61,1) 100%);
 }
 
 section#ground .terrain{
-	padding:7rem;
+	padding:4rem;
 	background-color: rgb(194, 140, 70);
 	background: linear-gradient(180deg, rgba(194, 140, 70) 0%, rgb(218, 136, 28) 21%, rgb(240, 147, 26) 92%, rgb(163, 93, 0) 100%);
 }
